@@ -1,0 +1,59 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "Clamp hook": {
+            "$fn": "30",
+            "chamfer": "5",
+            "countersunk": "true",
+            "diameter": "0",
+            "fillet": "1",
+            "hookRadius": "10",
+            "length1": "30",
+            "thickness": "10",
+            "width": "40"
+        },
+        "Sample S-hook": {
+            "$fn": "30",
+            "chamfer": "5",
+            "countersunk": "true",
+            "diameter": "0",
+            "fillet": "1",
+            "hookRadius": "5",
+            "hookRadius2": "3.0000000000000004",
+            "horizontal_length": "5",
+            "horizontal_length2": "0",
+            "is_S_hook": "true",
+            "is_rounded": "true",
+            "is_rounded2": "false",
+            "length1": "50",
+            "screw_offset_bottom": "-1",
+            "screw_offset_top": "-1",
+            "thickness": "6",
+            "type": "fillet",
+            "vertical_hook": "15",
+            "vertical_hook2": "10",
+            "width": "10"
+        },
+        "Hole hook": {
+            "$fn": "30",
+            "chamfer": "5",
+            "countersunk": "true",
+            "diameter": "6",
+            "fillet": "1",
+            "hookRadius": "10",
+            "hookRadius2": "10",
+            "horizontal_length": "0",
+            "is_S_hook": "false",
+            "is_rounded": "false",
+            "is_rounded2": "true",
+            "length1": "80",
+            "screw_offset_bottom": "-1",
+            "screw_offset_top": "-1",
+            "thickness": "10",
+            "type": "fillet",
+            "vertical_hook": "0",
+            "vertical_hook2": "20",
+            "width": "40"
+        }
+    }
+}
