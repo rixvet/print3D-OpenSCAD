@@ -1,0 +1,17 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "Sample RIXVET": {
+            "font_family": "Consolas",
+            "font_height": "2",
+            "font_size": "15",
+            "font_style": "Bold",
+            "hook_thickness": "3.0000000000000004",
+            "hook_type": "circle",
+            "margin": "1",
+            "tag": "RIXVEX",
+            "thickness": "2",
+            "width": "-1"
+        }
+    }
+}
