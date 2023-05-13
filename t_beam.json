@@ -1,0 +1,12 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "Sample 170mm": {
+            "$fn": "64",
+            "height": "25",
+            "length": "170",
+            "thickness": "3",
+            "width": "30"
+        }
+    }
+}
