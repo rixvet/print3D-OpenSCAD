@@ -46,7 +46,6 @@ difference() {
         }
     
     for(i = [0:amount-1]) {
-        echo("i =", i);
         c = i * (diameter + spacing) + spacing + (diameter/2);
         translate([c,0,thickness/2]) cylinder(h=height*2,d=diameter);
         /* Looks nicer, but is hard to print */

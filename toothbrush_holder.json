@@ -16,10 +16,10 @@
             "height": "80",
             "spacing": "5",
             "thickness": "3"
-        }
-		 "4 brushes": {
+        },
+        "4 brushes": {
             "amount": "4",
             "mounting_plate": "true"
-        },
+        }
     }
 }
